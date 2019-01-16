@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>js/jquery-1.7.2.min.js</file>
+        <file>js/mui.min.js</file>
+        <file>Index.qml</file>
+        <file>Login.qml</file>
+        <file>images/edit.png</file>
+        <file>images/password.png</file>
+        <file>images/user.png</file>
+        <file>controls/ButtonDefault.qml</file>
+        <file>js/buttons.js</file>
+        <file>styles/AvatarListViewStyle.qml</file>
+        <file>styles/CardStyle.qml</file>
+        <file>styles/DefaulListViewStyle.qml</file>
+        <file>styles/IconListViewStyle.qml</file>
+        <file>styles/ListDividerStyle.qml</file>
+        <file>styles/ThumbnailListViewStyle.qml</file>
+        <file>styles/TouchClearStyle.qml</file>
+        <file>styles/TouchOutlineStyle.qml</file>
+        <file>styles/TouchStyle.qml</file>
+        <file>js/base.js</file>
+        <file>js/badges.js</file>
+        <file>js/bars.js</file>
+        <file>js/colors.js</file>
+        <file>js/fontawesome.js</file>
+        <file>js/items.js</file>
+        <file>js/need.js</file>
+        <file>lists/AvatarListView.qml</file>
+        <file>lists/DefaultListView.qml</file>
+        <file>lists/IconListView.qml</file>
+        <file>lists/List.qml</file>
+        <file>lists/ThumbnailListView.qml</file>
+        <file>content/TextContent.qml</file>
+        <file>js/jquery.qrcode.min.js</file>
+        <file>controls/Button.qml</file>
+        <file>scxml/statemachine.scxml</file>
+    </qresource>
+</RCC>
